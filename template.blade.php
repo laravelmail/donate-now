@@ -1,0 +1,1245 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta name="x-apple-disable-message-reformatting"/>
+<!--[if !mso]><!--><meta content="IE=edge" http-equiv="X-UA-Compatible"/><!--<![endif]-->
+<title></title>
+<style type="text/css">
+      
+      @media only screen and (min-width: 620px) {
+        .u-row {
+          width: 600px !important;
+        }
+
+        .u-row .u-col {
+          vertical-align: top;
+        }
+
+        
+            .u-row .u-col-24p84 {
+              width: 149.04px !important;
+            }
+          
+
+            .u-row .u-col-25p17 {
+              width: 151.02px !important;
+            }
+          
+
+            .u-row .u-col-33p33 {
+              width: 199.98px !important;
+            }
+          
+
+            .u-row .u-col-37p17 {
+              width: 223.02px !important;
+            }
+          
+
+            .u-row .u-col-41p5 {
+              width: 249px !important;
+            }
+          
+
+            .u-row .u-col-41p83 {
+              width: 250.98px !important;
+            }
+          
+
+            .u-row .u-col-50 {
+              width: 300px !important;
+            }
+          
+
+            .u-row .u-col-58p5 {
+              width: 351px !important;
+            }
+          
+
+            .u-row .u-col-62p83 {
+              width: 376.98px !important;
+            }
+          
+
+            .u-row .u-col-100 {
+              width: 600px !important;
+            }
+          
+      }
+
+      @media only screen and (max-width: 620px) {
+        .u-row-container {
+          max-width: 100% !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        .u-row {
+          width: 100% !important;
+        }
+
+        .u-row .u-col {
+          display: block !important;
+          width: 100% !important;
+          min-width: 320px !important;
+          max-width: 100% !important;
+        }
+
+        .u-row .u-col > div {
+          margin: 0 auto;
+        }
+
+
+        .u-row .u-col img {
+          max-width: 100% !important;
+        }
+
+}
+    
+body{margin:0;padding:0}table,td,tr{border-collapse:collapse;vertical-align:top}p{margin:0}.ie-container table,.mso-container table{table-layout:fixed}*{line-height:inherit}a[x-apple-data-detectors=true]{color:inherit!important;text-decoration:none!important}
+
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: underline; } @media (max-width: 480px) { #u_content_image_11 .v-container-padding-padding { padding: 20px 10px 0px !important; } #u_content_image_11 .v-text-align { text-align: center !important; } #u_content_menu_1 .v-container-padding-padding { padding: 20px 10px 25px !important; } #u_content_text_4 .v-container-padding-padding { padding: 70px 10px 10px !important; } #u_content_image_3 .v-src-width { width: auto !important; } #u_content_image_3 .v-src-max-width { max-width: 20% !important; } #u_content_image_4 .v-src-width { width: auto !important; } #u_content_image_4 .v-src-max-width { max-width: 22% !important; } #u_content_image_2 .v-src-width { width: auto !important; } #u_content_image_2 .v-src-max-width { max-width: 24% !important; } #u_content_image_5 .v-container-padding-padding { padding: 20px 10px 50px !important; } #u_content_text_18 .v-container-padding-padding { padding: 12px !important; } #u_content_button_1 .v-container-padding-padding { padding: 10px 10px 30px 14px !important; } #u_content_text_26 .v-container-padding-padding { padding: 25px 10px 10px !important; } #u_content_button_17 .v-container-padding-padding { padding: 10px 10px 30px 14px !important; } #u_content_text_24 .v-container-padding-padding { padding: 20px 10px 10px !important; } #u_content_button_13 .v-container-padding-padding { padding: 11px 10px 30px 14px !important; } #u_content_image_12 .v-src-width { width: auto !important; } #u_content_image_12 .v-src-max-width { max-width: 27% !important; } }
+    </style>
+<!--[if !mso]><!--><link href="{{ asset('vendor/mail-templates/donate-now/assets/asset_b2343883.css') }}" rel="stylesheet" type="text/css"/><link href="{{ asset('vendor/mail-templates/donate-now/assets/asset_d904cd21.css') }}" rel="stylesheet" type="text/css"/><link href="{{ asset('vendor/mail-templates/donate-now/assets/asset_f405cda7.css') }}" rel="stylesheet" type="text/css"/><!--<![endif]-->
+</head>
+<body class="clean-body u_body" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #525151;color: #000000">
+<!--[if IE]><div class="ie-container"><![endif]-->
+<!--[if mso]><div class="mso-container"><![endif]-->
+<table cellpadding="0" cellspacing="0" id="u_body" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #525151;width:100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color: #525151;"><![endif]-->
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #fff4e3;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #fff4e3;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_11" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="left" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="left" alt="Logo" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/donate-now/assets/1625216109173-donation-7851.svg') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 23%;max-width: 64.4px;" title="Logo" width="64.4"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_menu_1" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:32px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<div class="menu" style="text-align:right;">
+<!--[if (mso)|(IE)]><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="right" style=""><tr><![endif]-->
+<!--[if (mso)|(IE)]><td style="padding:5px 14px"><![endif]-->
+<a href="{{ asset('vendor/mail-templates/donate-now/assets/asset_7ba4ac47.bin') }}" style="padding:5px 14px;display:inline-block;color:#0068A5;font-family:arial,helvetica,sans-serif;font-size:12px;text-decoration:none" target="_self">
+      INVOLVE
+    </a>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td style="padding:5px 14px"><![endif]-->
+<a href="{{ asset('vendor/mail-templates/donate-now/assets/asset_7ba4ac47.bin') }}" style="padding:5px 14px;display:inline-block;color:#0068A5;font-family:arial,helvetica,sans-serif;font-size:12px;text-decoration:none" target="_self">
+      STORIES
+    </a>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td style="padding:5px 14px"><![endif]-->
+<a href="{{ asset('vendor/mail-templates/donate-now/assets/asset_7ba4ac47.bin') }}" style="padding:5px 14px;display:inline-block;color:#0068A5;font-family:arial,helvetica,sans-serif;font-size:12px;text-decoration:none" target="_self">
+      CONTACT
+    </a>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!--[if gte mso 9]>
+      <table cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto;min-width: 320px;max-width: 600px;">
+        <tr>
+          <td background="{{ asset('vendor/mail-templates/donate-now/assets/1625216914396-1625207010809-532393.png') }}" valign="top" width="100%">
+      <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width: 600px;">
+        <v:fill type="frame" src="{{ asset('vendor/mail-templates/donate-now/assets/1625216914396-1625207010809-532393.png') }}" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+      <![endif]-->
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #220033;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-image: url('{{ asset('vendor/mail-templates/donate-now/assets/1625216914396-1625207010809-532393.png') }}');background-repeat: no-repeat;background-position: center top;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-image: url('{{ asset('vendor/mail-templates/donate-now/assets/1625216914396-1625207010809-532393.png') }}');background-repeat: no-repeat;background-position: center top;background-color: #220033;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_4" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:110px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><strong><span style="font-size: 36px; line-height: 50.4px; font-family: Raleway, sans-serif;">We need your help</span></strong></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="12%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 35px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 170%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;">At [Your Organization Name], we strive to make a difference every day. Your support today can help us continue our mission.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:42px 10px 46px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><table border="0" cellspacing="0" cellpadding="0"><tr><td align="center" bgcolor="#ff821b" style="padding:13px 30px;" valign="top"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/donate-now/assets/asset_7ba4ac47.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #ff821b; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:13px 30px;line-height:120%;"><strong><span style="font-size: 20px; line-height: 24px; font-family: Raleway, sans-serif;"><span style="line-height: 24px; font-size: 20px;">Donate Now</span></span></strong></span>
+</a>
+<!--[if mso]></td></tr></table><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!--[if gte mso 9]>
+      </v:textbox></v:rect>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #220033;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #220033;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:40px 10px 23px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ff980e; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><strong><span style="font-size: 36px; line-height: 50.4px; font-family: Raleway, sans-serif;">How you can help?</span></strong></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #220033;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #220033;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="200" style="width: 200px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 200px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_3" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="left" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="left" alt="Icon" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/donate-now/assets/1625207190875-Conferenc_20Simple_ffffff.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 36%;max-width: 63px;" title="Icon" width="63"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 3px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #fd5a49; line-height: 100%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 100%;"><span style="font-size: 20px; line-height: 20px; font-family: Raleway, sans-serif;">Be volunteer</span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 170%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;">Join us today in making a real difference. Your donation will help [Cause/Organization Name] continue its vital work.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 35px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 170%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;"><span style="color: #ff980e; font-size: 16px; line-height: 27.2px;"><a href="#" rel="noopener" style="color: #ff980e;" target="_blank">BE VOLUNTEER</a></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="200" style="width: 200px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 200px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_4" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="left" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="left" alt="Icon" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/donate-now/assets/1625207457383-Shopping_20Cart_20Net_ffffff.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 36%;max-width: 63px;" title="Icon" width="63"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 3px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #fd5a49; line-height: 100%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 100%;"><span style="font-size: 20px; line-height: 20px; font-family: Raleway, sans-serif;">By Shopping</span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 170%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;">Join us in making a difference today! Your support will help [Organization Name] continue its noble cause.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 35px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 170%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;"><span style="color: #ff980e; font-size: 16px; line-height: 27.2px;"><a href="#" rel="noopener" style="color: #ff980e;" target="_blank">SHOP NOW</a></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="200" style="width: 200px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 200px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_2" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="left" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="left" alt="Icon" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/donate-now/assets/1625207538705-Handwatch_ffffff.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 36%;max-width: 63px;" title="Icon" width="63"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 3px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #fd5a49; line-height: 100%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 100%;"><span style="font-size: 20px; line-height: 20px; font-family: Raleway, sans-serif;">Spread it</span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 170%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;">Join us in making a real difference today! Your donation will contribute to our mission.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 55px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 170%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;"><span style="color: #ff980e; font-size: 16px; line-height: 27.2px;"><a href="#" rel="noopener" style="color: #ff980e;" target="_blank">SHARE IT</a></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="249" style="width: 249px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-41p5" style="max-width: 320px;min-width: 249px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:50px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #220033; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 32px; line-height: 44.8px;"><strong><span style="line-height: 44.8px; font-family: Raleway, sans-serif; font-size: 32px;">How we help?</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 30px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #220033; line-height: 170%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;">Your support today will make a real difference in our community. By donating, you join our mission to help those in need.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="351" style="width: 351px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-58p5" style="max-width: 320px;min-width: 351px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_5" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:50px 10px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<a href="{{ asset('vendor/mail-templates/donate-now/assets/asset_7ba4ac47.bin') }}" target="_blank">
+<img align="center" alt="Video" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/donate-now/assets/1625213285674-849020.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 331px;" title="Video" width="331"/>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #f6f6f6;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #f6f6f6;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:40px 10px 30px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #220033; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 32px; line-height: 44.8px;"><strong><span style="line-height: 44.8px; font-family: Raleway, sans-serif; font-size: 32px;">Upcoming Events</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px 0px 10px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #f6f6f6;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px 0px 10px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #f6f6f6;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="151" style="width: 151px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-25p17" style="max-width: 320px;min-width: 151.02px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:76px; v-text-anchor:middle; width:151px;" arcsize="0%"  stroke="f" fillcolor="#ff821b"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #ff821b; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:24px 20px 0px;line-height:120%;"><span style="font-size: 44px; line-height: 52.8px;"><strong><span style="line-height: 52.8px; font-family: Raleway, sans-serif; font-size: 44px;">25</span></strong></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:27px; v-text-anchor:middle; width:149px;" arcsize="0%"  stroke="f" fillcolor="#ff821b"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #ff821b; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:0px 20px;line-height:120%;"><span style="font-size: 22px; line-height: 26.4px;"><strong><span style="line-height: 26.4px; font-family: Raleway, sans-serif; font-size: 22px;">MAY</span></strong></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:53px; v-text-anchor:middle; width:151px;" arcsize="0%"  stroke="f" fillcolor="#ff821b"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #ff821b; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:0px 20px 26px;line-height:120%;"><span style="font-size: 22px; line-height: 26.4px;"><strong><span style="line-height: 26.4px; font-family: Raleway, sans-serif; font-size: 22px;">20xx</span></strong></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="249" style="width: 249px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-41p5" style="max-width: 320px;min-width: 249px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Poverty" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/donate-now/assets/asset_5e11c278.bin') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 249px;" title="Poverty" width="249"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="199" style="width: 199px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 199.98px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_18" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:5px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #220033; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">Dear [Recipient], We humbly ask for your generosity in supporting our noble mission. Your donation today will make a significant impact on the lives we aim to improve.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #555555; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">Support our cause by making a generous donation today!</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_button_1" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 14px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="left" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/donate-now/assets/asset_2f8c5a96.bin/') }}" style="height:37px; v-text-anchor:middle; width:126px;" arcsize="11%"  stroke="f" fillcolor="#583e2a"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/donate-now/assets/asset_7ba4ac47.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #583e2a; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:9px 25px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px; font-family: Raleway, sans-serif;"><em><span style="line-height: 19.2px; font-size: 16px;">Join Event</span></em></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px 0px 10px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px 0px 10px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="149" style="width: 149px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-24p84" style="max-width: 320px;min-width: 149.04px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:82px; v-text-anchor:middle; width:149px;" arcsize="0%"  stroke="f" fillcolor="#f89b4d"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f89b4d; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:30px 20px 0px;line-height:120%;"><span style="font-size: 44px; line-height: 52.8px;"><strong><span style="line-height: 52.8px; font-family: Raleway, sans-serif; font-size: 44px;">30</span></strong></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:27px; v-text-anchor:middle; width:149px;" arcsize="0%"  stroke="f" fillcolor="#f89b4d"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f89b4d; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:0px 20px;line-height:120%;"><span style="font-size: 22px; line-height: 26.4px;"><strong><span style="line-height: 26.4px; font-family: Raleway, sans-serif; font-size: 22px;">JUL</span></strong></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:58px; v-text-anchor:middle; width:149px;" arcsize="0%"  stroke="f" fillcolor="#f89b4d"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f89b4d; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:0px 20px 31px;line-height:120%;"><span style="font-size: 22px; line-height: 26.4px;"><strong><span style="line-height: 26.4px; font-family: Raleway, sans-serif; font-size: 22px;">20xx</span></strong></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="250" style="width: 250px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-41p83" style="max-width: 320px;min-width: 250.98px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Poverty" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/donate-now/assets/asset_4a4dcf36.bin') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 250.98px;" title="Poverty" width="250.98"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="199" style="width: 199px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 199.98px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_26" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:9px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #220033; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">Dear [Recipient], We are reaching out to humbly ask for your support. Your generosity can make a difference in the lives of many. Consider donating now to our Non-Profit organization.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #555555; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">Join us in making a real difference today. Your generous donation will help [Organization Name] continue its valuable work.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_button_17" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 14px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="left" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/donate-now/assets/asset_2f8c5a96.bin/') }}" style="height:41px; v-text-anchor:middle; width:126px;" arcsize="10%"  stroke="f" fillcolor="#583e2a"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/donate-now/assets/asset_7ba4ac47.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #583e2a; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:11px 25px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px; font-family: Raleway, sans-serif;"><em><span style="line-height: 19.2px; font-size: 16px;">Join Event</span></em></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px 0px 30px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #f6f6f6;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px 0px 30px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #f6f6f6;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="149" style="width: 149px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-24p84" style="max-width: 320px;min-width: 149.04px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:82px; v-text-anchor:middle; width:149px;" arcsize="0%"  stroke="f" fillcolor="#ff821b"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #ff821b; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:30px 20px 0px;line-height:120%;"><span style="font-size: 44px; line-height: 52.8px;"><strong><span style="line-height: 52.8px; font-family: Raleway, sans-serif; font-size: 44px;">25</span></strong></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:27px; v-text-anchor:middle; width:149px;" arcsize="0%"  stroke="f" fillcolor="#ff821b"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #ff821b; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:0px 20px;line-height:120%;"><span style="font-size: 22px; line-height: 26.4px;"><strong><span style="line-height: 26.4px; font-family: Raleway, sans-serif; font-size: 22px;">MAY</span></strong></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:58px; v-text-anchor:middle; width:149px;" arcsize="0%"  stroke="f" fillcolor="#ff821b"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #ff821b; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:0px 20px 31px;line-height:120%;"><span style="font-size: 22px; line-height: 26.4px;"><strong><span style="line-height: 26.4px; font-family: Raleway, sans-serif; font-size: 22px;">20xx</span></strong></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="250" style="width: 250px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-41p83" style="max-width: 320px;min-width: 250.98px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Poverty" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/donate-now/assets/asset_15560cf5.bin') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 250.98px;" title="Poverty" width="250.98"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="199" style="width: 199px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 199.98px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_24" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:5px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #220033; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">Dear [Recipient Name], We hope this message finds you well. Your support is needed now more than ever. Together, we can make a difference.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #555555; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">Welcome! Your generosity can make a world of difference. Donate Now!</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_button_13" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:11px 10px 0px 14px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="left" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/donate-now/assets/asset_2f8c5a96.bin/') }}" style="height:41px; v-text-anchor:middle; width:126px;" arcsize="10%"  stroke="f" fillcolor="#583e2a"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/donate-now/assets/asset_7ba4ac47.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #583e2a; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:11px 25px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px; font-family: Raleway, sans-serif;"><em><span style="line-height: 19.2px; font-size: 16px;">Join Event</span></em></span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!--[if gte mso 9]>
+      <table cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto;min-width: 320px;max-width: 600px;">
+        <tr>
+          <td background="{{ asset('vendor/mail-templates/donate-now/assets/1625214760504-697983.jpg') }}" valign="top" width="100%">
+      <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width: 600px;">
+        <v:fill type="tile" src="{{ asset('vendor/mail-templates/donate-now/assets/1625214760504-697983.jpg') }}" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+      <![endif]-->
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-image: url('{{ asset('vendor/mail-templates/donate-now/assets/1625214760504-697983.jpg') }}');background-repeat: repeat;background-position: center top;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-image: url('{{ asset('vendor/mail-templates/donate-now/assets/1625214760504-697983.jpg') }}');background-repeat: repeat;background-position: center top;background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:45px 10px 0px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/donate-now/assets/1625214876216-donate-donation.svg') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 11%;max-width: 63.8px;" title="Image" width="63.8"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 30px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 32px; line-height: 44.8px;"><span style="line-height: 44.8px; font-family: Raleway, sans-serif; font-size: 32px;">Donate now to change life</span></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 50px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><table border="0" cellspacing="0" cellpadding="0"><tr><td align="center" bgcolor="#ff821b" style="padding:13px 30px;" valign="top"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/donate-now/assets/asset_7ba4ac47.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #ff821b; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span style="display:block;padding:13px 30px;line-height:120%;"><strong><span style="font-size: 20px; line-height: 24px; font-family: Raleway, sans-serif;"><span style="line-height: 24px; font-size: 20px;">Donate Now</span></span></strong></span>
+</a>
+<!--[if mso]></td></tr></table><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!--[if gte mso 9]>
+      </v:textbox></v:rect>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #220033;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #220033;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:50px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><strong><span style="font-size: 36px; line-height: 50.4px; font-family: Raleway, sans-serif;">Our Office</span></strong></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Map" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/donate-now/assets/1625215366623-624719.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 550px;" title="Map" width="550"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #220033;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #220033;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="223" style="width: 223px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-37p17" style="max-width: 320px;min-width: 223.02px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_12" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:45px 10px 25px 25px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="left" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="left" alt="Logo" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/donate-now/assets/1625214876216-donate-donation.svg') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 36%;max-width: 67.69px;" title="Logo" width="67.69"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 25px;font-family:arial,helvetica,sans-serif;">
+<div align="left" style="direction: ltr;">
+<div style="display: table; max-width:119px;">
+<!--[if (mso)|(IE)]><table width="119" cellpadding="0" cellspacing="0" border="0"><tr><td style="border-collapse:collapse;" align="left"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:119px;"><tr><![endif]-->
+<!--[if (mso)|(IE)]><td width="32" style="width:32px; padding-right: 8px;" valign="top"><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 8px" width="32">
+<tbody><tr style="vertical-align: top"><td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top" valign="middle">
+<a href="{{ asset('vendor/mail-templates/donate-now/assets/asset_59f63f67.bin') }}" target="_blank" title="Snapchat">
+<img alt="Snapchat" src="{{ asset('vendor/mail-templates/donate-now/assets/snapchat.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important" title="Snapchat" width="32"/>
+</a>
+</td></tr>
+</tbody></table>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td width="32" style="width:32px; padding-right: 8px;" valign="top"><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 8px" width="32">
+<tbody><tr style="vertical-align: top"><td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top" valign="middle">
+<a href="{{ asset('vendor/mail-templates/donate-now/assets/asset_edd62cef.bin') }}" target="_blank" title="RSS">
+<img alt="RSS" src="{{ asset('vendor/mail-templates/donate-now/assets/rss.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important" title="RSS" width="32"/>
+</a>
+</td></tr>
+</tbody></table>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td width="32" style="width:32px; padding-right: 0px;" valign="top"><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px" width="32">
+<tbody><tr style="vertical-align: top"><td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top" valign="middle">
+<a href="{{ asset('vendor/mail-templates/donate-now/assets/asset_51e18f1a.bin') }}" target="_blank" title="Instagram">
+<img alt="Instagram" src="{{ asset('vendor/mail-templates/donate-now/assets/instagram.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important" title="Instagram" width="32"/>
+</a>
+</td></tr>
+</tbody></table>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="376" style="width: 376px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-62p83" style="max-width: 320px;min-width: 376.98px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:28px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 24px; line-height: 33.6px;"><strong><span style="line-height: 33.6px; font-family: Raleway, sans-serif; font-size: 24px;">About Us</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 0px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #c7c7c7; line-height: 170%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;">Your generous contribution can make a real difference in our mission.</p>
+<p style="font-size: 14px; line-height: 170%;"><span style="font-size: 16px; line-height: 27.2px; font-family: Cabin, sans-serif;"> <span style="color: #ff980e; font-size: 16px; line-height: 27.2px;"><a href="#" rel="noopener" style="color: #ff980e;" target="_blank">Learn More+</a></span></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #464646;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 30px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #c7c7c7; line-height: 170%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;"><span style="font-size: 16px; line-height: 27.2px; font-family: Cabin, sans-serif; color: #c7c7c7;">📧 <a href="mailto:donation@email.com," rel="noopener" style="color: #c7c7c7;" target="_blank">d<span style="font-size: 16px; line-height: 27.2px;">onation@email.com</span>,</a>  🔮 <a href="#" rel="noopener" style="color: #c7c7c7;" target="_blank">www.donation.com</a></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #1b0129;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #1b0129;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:15px 10px 15px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #9b9b9b; line-height: 170%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 170%;">©️ 20XX All rights reserved.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]></div><![endif]-->
+<!--[if IE]></div><![endif]-->
+</body>
+</html>
